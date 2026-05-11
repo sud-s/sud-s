@@ -1,4 +1,4 @@
-
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,30:0a0a0a,60:111111,100:1a1a2e&height=280&section=header&text=Sud&fontSize=130&fontColor=ffffff&fontAlignY=55&desc=Full%20Stack%20%E2%80%A2%20UI%2FUX%20%E2%80%A2%20Systems%20%E2%80%A2%20AI&descSize=18&descColor=555555&descAlignY=75&stroke=ffffff&strokeWidth=1&animation=twinkling" width="100%"/>
 
 <div align="center">
 

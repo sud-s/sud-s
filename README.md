@@ -57,7 +57,6 @@ class Sud:
 <tr>
 <td align="center" width="50%">
 
-<img src="https://img.shields.io/badge/2026-AI%20%2F%20Full%20Stack-94a3b8?style=flat-square&labelColor=0d0d0d"/>
 
 ### 🧠 &nbsp;[Zenius](https://zenius-phi.vercel.app/)
 **AI Learning Platform**

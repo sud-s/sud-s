@@ -131,8 +131,6 @@ Safety-first Git history surgery. AI rewrites commits to Conventional Commits st
 <tr>
 <td align="center" width="50%">
 
-<img src="https://img.shields.io/badge/2025-UI%2FUX%20Design-22d3ee?style=flat-square&labelColor=0d0d0d"/>
-
 ### 📰 &nbsp;[News App](https://www.figma.com/design/w3lLjRQPhPUAzagr2ml4rU/news-app)
 **Mobile UI/UX Design**
 

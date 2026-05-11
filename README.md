@@ -22,8 +22,6 @@
 
 ---
 
-<img align="right" width="360" src="https://github-readme-stats.vercel.app/api?username=sud-s&show_icons=true&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=666666&icon_color=ffffff&count_private=true&include_all_commits=true" />
-
 ### `$ whoami`
 
 ```python
